@@ -30,8 +30,8 @@ async def sedlyfsir(event):
     oknoob = Config.OWNER_ID
     oksir = Config.CUSTOM_START
     if Config.CUSTOM_START is None:
-        text_me = (f"**Hai. {firstname} , I am {bot_username}.** \n"
-               f"`I am A ChatBot To Talk With My` [Master](tg://user?id={oknoob}) \n"
+        text_me = (f"**Hai. {firstname} , I am MotiPaak Assistant.** \n"
+               f"`I am A ChatBot To Talk With My` [Master](tg://user?id={oknoob}) \n\n"
                f"**Send Me And I Will Send To Moi Master.** \n"
                f"**Thank You**")
     else:
